@@ -16,8 +16,9 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  /*display: flex;
-  align-items: center;*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h1,
@@ -44,7 +45,7 @@ ol {
   display: flex;
   flex-direction: row;
   align-items: flex-end;
-  max-width: 1140px;
+  inline-size: 1140px;
   gap: 30px;
 }
 
@@ -204,7 +205,8 @@ input[type='checkbox']:checked + span::before {
 
 .content__list {
   position: relative;
-  height: 298px;
+  block-size: 298px;
+  inline-size: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
   margin-top: 26px;

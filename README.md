@@ -1,1 +1,1 @@
-https://github.com/yuliya-bondarenko/Posmotry_v_okno.git
+Ссылка на проект: https://github.com/yuliya-bondarenko/Posmotry_v_okno.git

@@ -1,1 +1,1 @@
-Posmotry_v_okno https://github.com/yuliya-bondarenko/Posmotry_v_okno.git
+https://github.com/yuliya-bondarenko/Posmotry_v_okno.git
